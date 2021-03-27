@@ -1,0 +1,18 @@
+[submodule "themes/zen"]
+	path = themes/zen
+	url = https://github.com/frjo/hugo-theme-zen.git
+[submodule "themes/hyde-hyde"]
+	path = themes/hyde-hyde
+	url = https://github.com/htr3n/hyde-hyde.git
+[submodule "themes/liva-hugo"]
+	path = themes/liva-hugo
+	url = https://github.com/themefisher/liva-hugo.git
+[submodule "themes/hugo-theme-chunky-poster"]
+	path = themes/hugo-theme-chunky-poster
+	url = https://github.com/puresyntax71/hugo-theme-chunky-poster.git
+[submodule "themes/hugo-future-imperfect"]
+	path = themes/hugo-future-imperfect
+	url = https://github.com/jpescador/hugo-future-imperfect.git
+[submodule "themes/mainroad"]
+	path = themes/mainroad
+	url = https://github.com/vimux/mainroad
