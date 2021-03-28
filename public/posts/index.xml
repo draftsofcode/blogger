@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on draftsofcode</title><link>http://blog.draftsofcode.dev/posts/</link><description>Recent content in Posts on draftsofcode</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 27 Mar 2021 17:39:43 -0400</lastBuildDate><atom:link href="http://blog.draftsofcode.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>http://blog.draftsofcode.dev/posts/my-first-post/</link><pubDate>Sat, 27 Mar 2021 17:39:43 -0400</pubDate><guid>http://blog.draftsofcode.dev/posts/my-first-post/</guid><description>Can someone celebrate my first post with me?</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on draftsofcode</title>
+    <link>http://blog.draftsofcode.dev/posts/</link>
+    <description>Recent content in Posts on draftsofcode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Mar 2021 17:39:43 -0400</lastBuildDate><atom:link href="http://blog.draftsofcode.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://blog.draftsofcode.dev/posts/my-first-post/</link>
+      <pubDate>Sat, 27 Mar 2021 17:39:43 -0400</pubDate>
+      
+      <guid>http://blog.draftsofcode.dev/posts/my-first-post/</guid>
+      <description>Can someone celebrate my first post with me?</description>
+    </item>
+    
+  </channel>
+</rss>
