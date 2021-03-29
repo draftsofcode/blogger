@@ -3,3 +3,37 @@ languageCode = "en-us"
 title = "draftsOfCode"
 theme = "mainroad"
 googleAnalytics = "G-Z2SG8RMRBE"
+
+[Params]
+    copyright = "Rodney J. Woodruff"
+    opengraph = true
+    schema = true
+    twitter_cards = true
+    readmore = true
+    authorbox = true
+    toc = true
+    post_meta = ["author", "date", "categories"]
+    dateformat = "Mon, Jan 2, 2006"
+
+[Author]
+    name = "Rodney J. Woodruff"
+    bio = "Rodney J. Woodruff has spent his entire life in science and software development. draftsOfCode is the blog where Rodney will share his design and build process for building his hobby projects. He reserves the right to stop a project at any times. :)"
+
+[Params.logo]
+    image = "img/draftsOfCode_logo.png"
+    subtitle = "A million ideas worked on one at a time!"
+
+[Params.sidebar]
+    home = "right"
+    list = "right"
+    single = true
+    widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+    recent_num = 5
+
+[Params.widgets.social]
+    twitter = "draftsOfCode"
+    instagram = "draftsOfCode"
+    github = "draftsOfCode"
+    email = "draftsOfCode@draftsofcode.dev"
