@@ -1,7 +1,7 @@
 ---
 title: "Welcome to draftsOfCode!"
 date: 2021-03-27T17:39:43-04:00
-draft: true
+draft: false
 ---
 
 The summer I turned nine years old, I took a computer programming course geared towards children. I spent three months learning logo basic. This experience helped me to develop stronger critical thinking skills. Fast-forward to today, after 23 years of "hand on keyboard" software development and 29 years in IT and I have thought of so many hobby projects that I would love to spend time building. However, career and life will sometimes get in the way. 
