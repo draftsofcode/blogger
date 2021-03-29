@@ -1,5 +1,4 @@
 baseURL = "http://blog.draftsofcode.dev/"
 languageCode = "en-us"
-title = "draftsofcode"
+title = "draftsOfCode"
 theme = "mainroad"
-googleAnalytics = "G-Z2SG8RMRBE"
