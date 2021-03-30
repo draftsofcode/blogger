@@ -14,3 +14,10 @@ draftsOfCode is my blog where I will share the build and design process for many
 * Debt Calculator
 * Emoji Collections
 * Something crazy involving Tyler Perry
+
+This blog is built using the following technology:
+
+* CMS: Hugo -- https://gohugo.io
+* Analytics: Google Analytics -- https://analytics.google.com
+* Hosting: Netlify -- https://app.netlify.com
+* DNS: Google Domains -- https://domains.google.com

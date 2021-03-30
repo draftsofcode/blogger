@@ -17,7 +17,7 @@ googleAnalytics = "G-Z2SG8RMRBE"
 
 [Author]
     name = "Rodney J. Woodruff"
-    bio = "Rodney J. Woodruff has spent his entire life in science and software development. draftsOfCode is the blog where Rodney will share his design and build process for building his hobby projects. He reserves the right to stop a project at any times. :)"
+    bio = "Rodney J. Woodruff has spent his entire life in science and engineering. draftsOfCode is the blog where Rodney will share his design and build process for building his hobby projects. He reserves the right to stop working on a project at any time. :)"
 
 [Params.logo]
     image = "img/draftsOfCode_logo.png"
