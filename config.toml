@@ -3,7 +3,7 @@ languageCode = "en-us"
 theme = "mainroad"
 
 [Params]
-    copyright = "Rodney J. Woodruff"
+    copyright = "Rodney J. Woodruff. All rights reserved."
     opengraph = true
     schema = true
     twitter_cards = true
@@ -26,7 +26,7 @@ theme = "mainroad"
     home = "right"
     list = "right"
     single = true
-    widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+    widgets = ["search", "recent", "categories", "taglist", "social", "languages", "newsletter"]
 
 [Params.widgets]
     recent_num = 5
