@@ -1,7 +1,7 @@
 ---
 title: "Scrabble Clone"
 date: 2021-03-29T15:17:13-04:00
-draft: true
+draft: false
 ---
 
 2021 marks the twenty-second year that I have been married to this beautiful woman below. We have played a competitive game of scrabble several times per week for the vast majority of those 22 years. We started with the traditional scrabble board and then moved on to the Scrabble App on iOS devices.
