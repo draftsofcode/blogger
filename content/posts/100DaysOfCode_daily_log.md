@@ -14,4 +14,6 @@ draft: true
 
 The other interesting thing is that there is no way to change an image's size in generic Markdown. So, I ended up using the [figure](https://gohugo.io/content-management/shortcodes/#figure) shortcode which made this possible.
 
+One other thing is that I wasn't able to get Google Analytics working yet. But, will definitely figure it out. May just need to modify the theme that I have been using.
+
 Getting going and keeping going will likely be challenging. I just hope to get a straightforward playable version of the game going.
