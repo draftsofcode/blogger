@@ -11,14 +11,10 @@
 			{{ with $logoImage -}}
 				<div class="logo__item logo__imagebox">
 					<img class="logo__img" src="{{ . | relURL }}">
-				</div>
-			{{- end -}}
-			{{ with $logoTitle -}}
-				<div class="logo__item logo__text">
-					<div class="logo__title">{{ . }}</div>
+					<br/>
 					{{ with $logoSubtitle }}<div class="logo__tagline">{{ . }}</div>{{ end }}
 				</div>
-			{{- end }}
+			{{- end -}}
 		</a>
 	</div>
 {{- end }}

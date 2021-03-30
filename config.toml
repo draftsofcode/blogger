@@ -1,6 +1,5 @@
 baseURL = "https://blog.draftsofcode.dev/"
 languageCode = "en-us"
-title = "draftsOfCode"
 theme = "mainroad"
 
 [Params]
@@ -20,7 +19,7 @@ theme = "mainroad"
     bio = "Rodney J. Woodruff has spent his entire life in science and engineering. draftsOfCode is the blog where Rodney will share his design and build process for building his hobby projects. He reserves the right to stop working on a project at any time. :)"
 
 [Params.logo]
-    image = "img/draftsOfCode_logo.png"
+    image = "img/draftsOfCode_logo_nobackground_narrow.svg"
     subtitle = "A million ideas worked on one at a time!"
 
 [Params.sidebar]

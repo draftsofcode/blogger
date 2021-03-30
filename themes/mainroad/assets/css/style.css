@@ -398,11 +398,11 @@ select {
 
 .logo__item {
 	display: inline-block;
-	vertical-align: middle;
+	vertical-align: top;
 }
 
 .logo__img {
-	max-height: 256px;
+	max-height: 288px;
 }
 
 .logo__text {
@@ -414,8 +414,8 @@ select {
 }
 
 .logo--mixed .logo__img {
-	max-width: 128px;
-	max-height: 128px;
+	max-width: 288px;
+	max-height: 288px;
 }
 
 .logo--mixed .logo__text {
@@ -431,11 +431,11 @@ select {
 }
 
 .logo__tagline {
-	display: inline-block;
+	display: inline;
 	padding-top: 10px;
 	margin-top: 10px;
 	font-size: 14px;
-	font-size: .875rem;
+	font-size: 1.2rem;
 	font-weight: 700;
 	line-height: 1;
 	color: {{ $highlightColor }};

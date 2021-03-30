@@ -14,6 +14,9 @@ draftsOfCode is my blog where I will share the build and design process for many
 * Debt Calculator
 * Emoji Collections
 * Something crazy involving Tyler Perry
+* Bible Trivia
+* Book Collection Site
+* Movie Database like IMDB
 
 This blog is built using the following technology:
 
