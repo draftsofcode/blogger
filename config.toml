@@ -1,4 +1,4 @@
-baseURL = "http://blog.draftsofcode.dev/"
+baseURL = "https://blog.draftsofcode.dev/"
 languageCode = "en-us"
 title = "draftsOfCode"
 theme = "mainroad"
