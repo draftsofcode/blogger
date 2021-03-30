@@ -1,5 +1,5 @@
 ---
-title: "Scrabble Clone"
+title: "Scrabble Clone -- #100DaysOfCode"
 date: 2021-03-29T15:17:13-04:00
 draft: false
 ---
