@@ -2,7 +2,6 @@ baseURL = "https://blog.draftsofcode.dev/"
 languageCode = "en-us"
 title = "draftsOfCode"
 theme = "mainroad"
-googleAnalytics = "G-Z2SG8RMRBE"
 
 [Params]
     copyright = "Rodney J. Woodruff"
@@ -14,6 +13,7 @@ googleAnalytics = "G-Z2SG8RMRBE"
     toc = true
     post_meta = ["author", "date", "categories"]
     dateformat = "Mon, Jan 2, 2006"
+    googleAnalyticsID = "G-Z2SG8RMRBE"
 
 [Author]
     name = "Rodney J. Woodruff"

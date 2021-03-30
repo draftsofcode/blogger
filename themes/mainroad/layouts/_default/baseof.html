@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html class="no-js" lang="{{ .Site.Language.Lang }}">
 <head>
+	{{ if .Site.Params.GoogleAnalyticsID }}
+  		{{ partial "google-analytics-tag.html" . }}
+  	{{ end }}
+	
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
