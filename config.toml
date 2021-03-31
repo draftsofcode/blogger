@@ -1,6 +1,7 @@
 baseURL = "https://blog.draftsofcode.dev/"
 languageCode = "en-us"
 theme = "mainroad"
+paginate = "10"
 
 [Params]
     copyright = "Rodney J. Woodruff. All rights reserved."
@@ -17,6 +18,7 @@ theme = "mainroad"
 [Author]
     name = "Rodney J. Woodruff"
     bio = "Rodney J. Woodruff has spent his entire life in science and engineering. draftsOfCode is the blog where Rodney will share his design and build process for building his hobby projects. He reserves the right to stop working on a project at any time. :)"
+    avatar = "img/me_in_red.jpg"
 
 [Params.logo]
     image = "img/draftsOfCode_logo_nobackground_narrow.svg"
@@ -36,3 +38,7 @@ theme = "mainroad"
     instagram = "draftsOfCode"
     github = "draftsOfCode"
     email = "draftsOfCode@draftsofcode.dev"
+
+[[Params.widgets.social.custom]]
+    title = "My Home Page"
+    url = "https://blog.rodneyjwoodruff.com"
