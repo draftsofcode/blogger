@@ -1,7 +1,7 @@
 ---
 title: "100 Days of Code Daily Log"
 date: 2021-03-29T23:15:10-04:00
-draft: true
+draft: false
 listable: false
 menu: main
 ---
