@@ -14,7 +14,7 @@ paginate = "10"
     post_meta = ["author", "date", "categories"]
     dateformat = "Mon, Jan 2, 2006"
     googleAnalyticsID = "G-Z2SG8RMRBE"
-    images = ["draftsOfCode_logo_nobackground_narrow.svg"]
+    images = ["img/draftsOfCode_logo_nobackground_narrow.svg"]
 
 [Author]
     name = "Rodney J. Woodruff"
