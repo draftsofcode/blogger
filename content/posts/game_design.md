@@ -15,7 +15,7 @@ These designs done using [Adobe XD](https://www.adobe.com/products/xd.html). The
 * [Gravit](https://www.designer.io/en/)
 * [FramerX](https://www.framer.com/)
 
-My first fulltime job as a computer programmer was with an advertising agency called (Campbell Ewald)[https://www.c-e.com/]. My job was write software the scheduled radio and television commercials for the 48 contiguous states. I also wrote an application that made sure we properly compensated the actors that appeared in those commercials. However, before I started writing software at Campbell Ewald, I started working in their help desk. It was here that I learned some of the design tricks of the trade. 
+My first fulltime job as a computer programmer was with an advertising agency called [Campbell Ewald](https://www.c-e.com/). My job was write software the scheduled radio and television commercials for the 48 contiguous states. I also wrote an application that made sure we properly compensated the actors that appeared in those commercials. However, before I started writing software at Campbell Ewald, I started working in their help desk. It was here that I learned some of the design tricks of the trade. 
 
 I learned Photoshop, Illustrator, Premiere and InDesign. I am terrible at Illustrator but am still somewhat capable in photoshop. The familiarity with Adobe's suite of products is why I chose Adobe XD. Because building this game is the most important part of this journey, I chose the tools with which I was most familiar. It may very well be that Sketch or any of the other tools would be better. But, I wanted to reduce the barriers to getting started. Trying to use tools that I am unfamiliar with to get started had a much higher chance of me deciding to not move forward.
 
