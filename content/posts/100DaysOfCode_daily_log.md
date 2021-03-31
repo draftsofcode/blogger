@@ -1,7 +1,9 @@
 ---
-title: "100DaysOfCode Daily Log"
+title: "100 Days of Code Daily Log"
 date: 2021-03-29T23:15:10-04:00
 draft: true
+listable: false
+menu: main
 ---
 
 # 100 Days Of Code - Log
