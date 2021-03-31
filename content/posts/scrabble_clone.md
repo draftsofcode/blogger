@@ -30,3 +30,6 @@ I will be using the following tools to build the first version of the app.
 * Machine: [MacBook Pro](https://www.apple.com/macbook-pro-16/)
 * Feature Tracking: [Trello](https://trello.com/)
 * Design Tool: [AdobeXD](https://www.adobe.com/products/xd.html)
+* [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/?referralCode=D3530B180A3ECABC6056%22)
+* [O'Reilly Learning](https://learning.oreilly.com/home/)
+* [Ray Wanderlich](https://www.raywenderlich.com/paths#ios) iOS Learning Path
