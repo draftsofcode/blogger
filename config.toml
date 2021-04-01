@@ -2,6 +2,8 @@ baseURL = "https://blog.draftsofcode.dev/"
 languageCode = "en-us"
 theme = "mainroad"
 paginate = "10"
+images = ["draftsOfCode_logo_nobackground_narrow.svg"]
+title = "draftsOfCode"
 
 [Params]
     copyright = "Rodney J. Woodruff. All rights reserved."
@@ -14,7 +16,8 @@ paginate = "10"
     post_meta = ["author", "date", "categories"]
     dateformat = "Mon, Jan 2, 2006"
     googleAnalyticsID = "G-Z2SG8RMRBE"
-    images = ["img/draftsOfCode_logo_nobackground_narrow.svg"]
+    images = ["draftsOfCode_logo_nobackground_narrow.svg"]
+    description = "A million ideas worked on one at a time"
 
 [Author]
     name = "Rodney J. Woodruff"
