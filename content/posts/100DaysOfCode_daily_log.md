@@ -41,3 +41,22 @@ Getting going and keeping going will likely be challenging. I just hope to get a
 I chose to focus my attention on SwiftUI because I wanted to become more familiar with the iOS ecosystem; specifically, the emergent SwiftUI. If I make it far enough, I will likely build an Android version using Android Studio and Kotlin to become more familiar with that ecosystem. Eventually, I may spend some time in either React Native or Flutter to make my cross-platform journey easier. For now, SwiftUI and the iOS ecosystem is where I am starting. Somewhere along this journey, I will share tips and tricks to help you pick up these technologies.
 
 I am very excited about this experience and hope to keep it going. That being said, I will likely have to switch to early mornings as my family is not used to me being unavailable and are having a slightly tough time adjusting. It definitely feels nice to be missed even if I am only 20 feet away :)
+
+### Day 4: Thursday, April 1, 2021
+
+**Today's Progress:** Continued Apple's SwiftUI Tutorial
+
+**Thoughts:** Today, I am almost done with Chapter 1 of the Apple SwiftUI Tutorial. Next, is section 6 called [Set Up Navigation Between List and Detail](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation). The tutorial is pretty straightforward and is a good enough introduction to SwiftUI. You should have some experience with the Swift programming language and should be familiar with the Xcode environment. Fortunately, I spent the last few months going through the [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) by Dr. Angela Yu. Through project-based learning, Dr. Yu introduces you to the Xcode environment and some of the practices of iOS development. Because of going through these courses, picking up SwiftUI has been a process of learning SwiftUI fairly straightforward. 
+
+There are 4 Chapters to Apple's SwiftUI tutorial:
+
+1. SwiftUI Essentials
+2. Drawing and Animation
+3. App Design and Layout
+4. Framework Integration
+
+Below is a sample from the tutorial. Even if you do not know SwiftUI, I am pretty sure you can figure out what the below code does:
+
+{{< figure src="/img/SwiftUI_sample.png" title="SwiftUI Sample" height="600" width="600" >}}
+
+Progress is good so far. Should be in a good place to start the app building once I have completed this tutorial. I will be sharing some code examples once I actually start building my app.
