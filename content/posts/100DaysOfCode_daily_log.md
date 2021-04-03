@@ -60,3 +60,10 @@ Below is a sample from the tutorial. Even if you do not know SwiftUI, I am prett
 {{< figure src="/img/SwiftUI_sample.png" title="SwiftUI Sample" height="600" width="600" >}}
 
 Progress is good so far. Should be in a good place to start the app building once I have completed this tutorial. I will be sharing some code examples once I actually start building my app.
+
+### Day 5: Friday, April 2, 2021
+
+**Today's Progress:** Continued Apple's SwiftUI Tutorial. But only had 30 minutes
+
+**Thoughts:** Using [NavigationView](https://developer.apple.com/documentation/swiftui/navigationview) and [NavigationLink](https://developer.apple.com/documentation/swiftui/navigationlink) to forward to another view is so much easier than the [func prepare(for: UIStoryboardSegue, sender: Any?)
+](https://developer.apple.com/documentation/uikit/uiviewcontroller/1621490-prepare) and the [func performSegue(withIdentifier identifier: String, sender: Any?)](https://developer.apple.com/documentation/uikit/uiviewcontroller/1621413-performsegue) constructs. Definitely see how this will be useful for my Scrabble clone.
