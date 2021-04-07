@@ -61,7 +61,7 @@ Below is a sample from the tutorial. Even if you do not know SwiftUI, I am prett
 
 Progress is good so far. Should be in a good place to start the app building once I have completed this tutorial. I will be sharing some code examples once I actually start building my app.
 
-### Day 5: Friday, April 2, 2021
+### Day 5 and 6: Friday, April 2, 2021 and Saturday, April 3rd
 
 **Today's Progress:** Continued Apple's SwiftUI Tutorial. But only had 30 minutes
 
