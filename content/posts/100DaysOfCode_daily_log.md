@@ -67,3 +67,22 @@ Progress is good so far. Should be in a good place to start the app building onc
 
 **Thoughts:** Using [NavigationView](https://developer.apple.com/documentation/swiftui/navigationview) and [NavigationLink](https://developer.apple.com/documentation/swiftui/navigationlink) to forward to another view is so much easier than the [func prepare(for: UIStoryboardSegue, sender: Any?)
 ](https://developer.apple.com/documentation/uikit/uiviewcontroller/1621490-prepare) and the [func performSegue(withIdentifier identifier: String, sender: Any?)](https://developer.apple.com/documentation/uikit/uiviewcontroller/1621413-performsegue) constructs. Definitely see how this will be useful for my Scrabble clone.
+
+### Days 7, 8 and 9: Sunday, April 4th through Tuesday, April 6th
+
+**The Progress:** Continuing to research but haven't coded much more
+
+**Thoughts:** Sunday was Easter/Resurrection Day. So, not much coding on that they. I could have but just decided that spending time with family was more important.
+
+On the other days (Monday and Tuesday) -- As an Engineering VP, I spend quite a bit of time helping other people be successful at delivering software and so my time and brain power gets used up. Couple that with the family responsibilities and I have little time to code. That being said, I have found some cool things about SwiftUI. Some examples include:
+
+* Shapes
+    1. [Rectangle](https://developer.apple.com/documentation/swiftui/rectangle)
+    2. [Rounded Rectangle](https://developer.apple.com/documentation/swiftui/roundedrectangle)
+    3. [Ellipse](https://developer.apple.com/documentation/swiftui/ellipse)
+    4. [Circle](https://developer.apple.com/documentation/swiftui/circle)
+    5. [Capsule](https://developer.apple.com/documentation/swiftui/capsule)
+* Grids
+    1. [LazyHGrid](https://developer.apple.com/documentation/swiftui/lazyhgrid)
+    2. [LazyVGrid](https://developer.apple.com/documentation/swiftui/lazyvgrid)
+    3. [GridItem](https://developer.apple.com/documentation/swiftui/griditem)
