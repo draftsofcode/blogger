@@ -72,7 +72,7 @@ Progress is good so far. Should be in a good place to start the app building onc
 
 **The Progress:** Continuing to research but haven't coded much more
 
-**Thoughts:** Sunday was Easter/Resurrection Day. So, not much coding on that they. I could have but just decided that spending time with family was more important.
+**Thoughts:** Sunday was Easter/Resurrection Day. So, not much coding on that day. I could have but just decided that spending time with family was more important.
 
 On the other days (Monday and Tuesday) -- As an Engineering VP, I spend quite a bit of time helping other people be successful at delivering software and so my time and brain power gets used up. Couple that with the family responsibilities and I have little time to code. That being said, I have found some cool things about SwiftUI. Some examples include:
 
